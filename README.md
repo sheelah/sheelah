@@ -33,13 +33,32 @@ I deeply care about both design and web performance, and enjoy experimenting wit
 
 Here are some of my favorite CodePen demos & experiments:
 
-[![Animated Rainbows](assets/rainbows.png)](https://codepen.io/editor/sheelah/pen/vENXOda)
-
-[![CSS Scroll Snap](assets/scroll-snap.png)](https://codepen.io/sheelah/pen/WNXdJxa)
-
-[![Toggleable Filters](assets/filters.png)](https://codepen.io/sheelah/pen/rgjMpg)
-
-[![Spotify-inspired UI](assets/spotify.png)](https://codepen.io/sheelah/pen/qYPwBK)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://codepen.io/editor/sheelah/pen/vENXOda">
+        <img src="assets/rainbows.png" alt="Animated Rainbows" width="100%">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codepen.io/sheelah/pen/WNXdJxa">
+        <img src="assets/scroll-snap.png" alt="CSS Scroll Snap" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://codepen.io/sheelah/pen/rgjMpg">
+        <img src="assets/filters.png" alt="Toggleable Filters" width="100%">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codepen.io/sheelah/pen/qYPwBK">
+        <img src="assets/spotify.png" alt="Spotify-inspired UI" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
 See more at my [CodePen profile](https://codepen.io/sheelah)!
 
