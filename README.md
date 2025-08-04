@@ -71,13 +71,7 @@ See more at my [CodePen profile](https://codepen.io/sheelah)!
 - 🦋 [BlueSky](https://bsky.app/profile/sheelah.bsky.social)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sheelah)
 
----
 
-### 🎨 Preferred Theme
-
-I gravitate toward darker tones of blue, purple, and gray—think sleek, modern, and easy on the eyes.
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Performance-Obsessed-darkblue?style=flat-square" />
