@@ -23,7 +23,7 @@ I deeply care about both design and web performance, and enjoy experimenting wit
 ### 🛠️ Top Skills
 
 - **Languages, Frameworks, and Technologies:** TypeScript, JavaScript, CSS, React, Node.js, Next.js
-- **Testing:** Software testing best practices, React Testing Library, Jest, Cypress
+- **Testing:** Software testing best practices, React Testing Library, Jest, Cypress, Vitest
 - **AI Tools:** Cursor, GitHub Copilot
 
 ---
