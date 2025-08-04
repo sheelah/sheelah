@@ -33,17 +33,13 @@ I deeply care about both design and web performance, and enjoy experimenting wit
 
 Here are some of my favorite CodePen demos & experiments:
 
-[![Animated UI Concept](assets/vENXOda.png)](https://codepen.io/editor/sheelah/pen/vENXOda)
-_Animated UI Concept — A playful interface experiment with animation and interaction._
+[![Animated Rainbows](assets/rainbows.png)](https://codepen.io/editor/sheelah/pen/vENXOda)
 
-[![CSS Art: Abstract Shapes](assets/WNXdJxa.png)](https://codepen.io/sheelah/pen/WNXdJxa)
-_CSS Art: Abstract Shapes — Exploring advanced CSS for creative visuals._
+[![CSS Scroll Snap](assets/scroll-snap.png)](https://codepen.io/sheelah/pen/WNXdJxa)
 
-[![Accessible Toggle Switch](assets/rgjMpg.png)](https://codepen.io/sheelah/pen/rgjMpg)
-_Accessible Toggle Switch — UI component focusing on accessibility and clean design._
+[![Toggleable Filters](assets/filters.png)](https://codepen.io/sheelah/pen/rgjMpg)
 
-[![Spotify-inspired layout with CSS Grid](assets/qYPwBK.png)](https://codepen.io/sheelah/pen/qYPwBK)
-_Spotify-inspired layout with CSS Grid — CSS Grid demo inspired by Spotify’s UI._
+[![Spotify-inspired UI](assets/spotify.png)](https://codepen.io/sheelah/pen/qYPwBK)
 
 See more at my [CodePen profile](https://codepen.io/sheelah)!
 
