@@ -1,7 +1,7 @@
 <!-- Profile README for sheelah -->
 
 <h1 align="center" style="color:#6C63FF;">
-  Hi, I'm Sheelah 👋
+  Hello, Friends 👋
 </h1>
 
 <p align="center">
@@ -22,9 +22,8 @@ I deeply care about both design and web performance, and enjoy experimenting wit
 
 ### 🛠️ Top Skills
 
-- **Languages:** TypeScript, JavaScript, CSS
-- **Frameworks:** React
-- **Testing:** Software testing best practices
+- **Languages, Frameworks, and Technologies:** TypeScript, JavaScript, CSS, React, Node.js, Next.js
+- **Testing:** Software testing best practices, React Testing Library, Jest, Cypress
 - **AI Tools:** Cursor, GitHub Copilot
 
 ---
